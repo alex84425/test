@@ -1,0 +1,4 @@
+git add -A
+git remset <file>
+git status
+
